@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GGdid
+- 👋 Hi, I’m Disha
 - 👀 I’m interested in developing, analysis, science and surfing
 - 🌱 I’m currently learning Computer Science and Engineering
 - 💞️ I’m looking to collaborate on diverse projects and building new stuffs 
