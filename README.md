@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Disha
-- 👀 I’m interested in developing, analysis, science and surfing
-- 🌱 I’m currently learning Computer Science and Engineering
-- 💞️ I’m looking to collaborate on diverse projects and building new stuffs 
-- 📫 You can reach me by mailing me on ddora@gitam.in
-- I will be posting projects and collaborating with teams, wish me luck! ;)
+- 🌊 keen interest in developing, analysis, science and surfing
+- ⌨️ currently learning Computer Science and Engineering with some perks of being a student
+- 👾 looking to collaborate on diverse projects and building new stuffs 
+- ✉️ You can reach me by mailing me on ddora@gitam.in
+- ⚙️ I will be posting projects and collaborating with teams, wish me luck! ;)
